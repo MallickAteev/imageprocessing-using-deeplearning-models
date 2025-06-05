@@ -19,13 +19,6 @@ This is a simple and interactive web application built with [Streamlit](https://
 - The model returns the top prediction with the object name and probability
 
 <br/>
-
-## 📸 Demo Screenshot
-
-![Demo](demo_screenshot.png)
-
-> Replace with your own screenshot if you have one
-
 <br/>
 
 ## 🛠️ Installation & Run Locally
