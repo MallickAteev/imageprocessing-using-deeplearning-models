@@ -21,6 +21,6 @@ This is a simple and interactive web application built with [Streamlit](https://
 <br/>
 <br/>
 
-## 🛠️ Installation & Run Locally
+
 
 
