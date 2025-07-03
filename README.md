@@ -23,7 +23,4 @@ This is a simple and interactive web application built with [Streamlit](https://
 
 ## 🛠️ Installation & Run Locally
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/image-identifier-app.git
-cd image-identifier-app
+
